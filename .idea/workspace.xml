@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87531ab3-2ab4-4708-a0db-15e1c2a86d56" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/css/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/armanraftari.github.io.iml" afterPath="$PROJECT_DIR$/armanraftari.github.io.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/compiler.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/copyright/profiles_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovning1.html" afterPath="$PROJECT_DIR$/ovning1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovning2.1.html" afterPath="$PROJECT_DIR$/ovning2.1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovning2.2.html" afterPath="$PROJECT_DIR$/ovning2.2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovning2.3.html" afterPath="$PROJECT_DIR$/ovning2.3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovning3.1.html" afterPath="$PROJECT_DIR$/ovning3.1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovning3.2.html" afterPath="$PROJECT_DIR$/ovning3.2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovningar.html" afterPath="$PROJECT_DIR$/ovningar.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/studiematerial.html" afterPath="$PROJECT_DIR$/studiematerial.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/vcs.xml" />
+    <list default="true" id="9751ef3d-5bab-4cd6-88a6-5b557fb565f1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ovning1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ovning2.1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ovning2.2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ovning2.3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ovning3.1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ovning3.2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ovningar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/studiematerial.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vcs.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
-    <ignored path="armanraftari.github.io.iws" />
+    <ignored path="html1.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,31 +38,44 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="armanraftari.github.io" />
+    <favorites_list name="html1" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="762">
-              <caret line="195" column="7" selection-start-line="180" selection-start-column="9" selection-end-line="195" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="-550">
+              <caret line="70" column="99" selection-start-line="70" selection-start-column="99" selection-end-line="70" selection-end-column="99" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/index.html">
+      <file leaf-file-name="ovningar.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/ovningar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="762">
-              <caret line="195" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+            <state relative-caret-position="374">
+              <caret line="122" column="14" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,7 +88,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.idea/Html2.html" />
+        <option value="$PROJECT_DIR$/.idea/htmlExempel.html" />
+        <option value="$PROJECT_DIR$/.idea/ovning2.html" />
+        <option value="$PROJECT_DIR$/.idea/ovning2.1.html" />
+        <option value="$PROJECT_DIR$/.idea/Html1/ovning2.2.html" />
+        <option value="$PROJECT_DIR$/.idea/ovning 1.html" />
+        <option value="$PROJECT_DIR$/.idea/Index.html" />
+        <option value="$PROJECT_DIR$/.idea/ovning4.html" />
+        <option value="$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning2.html" />
+        <option value="$PROJECT_DIR$/ArmanRaftari.github.io/.idea/htmlExempel.html" />
+        <option value="$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning1.html" />
+        <option value="$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning3.html" />
+        <option value="$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning4.html" />
+        <option value="$PROJECT_DIR$/ArmanRaftari.github.io/.idea/Index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.idea/ovningar.html" />
       </list>
     </option>
   </component>
@@ -93,7 +119,7 @@
     <option name="width" value="1938" />
     <option name="height" value="1048" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -119,7 +145,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -128,45 +154,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="armanraftari.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="armanraftari.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="armanraftari.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="armanraftari.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Arman\Desktop\Frontend\armanraftari.github.io" />
-      <recent name="C:\Users\Arman\Desktop\Frontend\armanraftari.github.io\.idea" />
+      <recent name="C:\Users\Arman\Desktop\JavaProjekt\html1\ArmanRaftari.github.io" />
+      <recent name="C:\Users\Arman\Desktop\JavaProjekt\html1\.idea\ArmanRaftari.github.io" />
+      <recent name="C:\Users\Arman\Desktop\JavaProjekt\html1\.idea" />
     </key>
   </component>
   <component name="RunManager">
@@ -384,6 +390,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -462,7 +469,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="armanraftari.github.io" />
+      <module name="html1" />
       <envs />
       <method />
     </configuration>
@@ -549,6 +556,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -568,49 +581,68 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="87531ab3-2ab4-4708-a0db-15e1c2a86d56" name="Default" comment="" />
-      <created>1473348279776</created>
+      <changelist id="9751ef3d-5bab-4cd6-88a6-5b557fb565f1" name="Default" comment="" />
+      <created>1472724023193</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1473348279776</updated>
-      <workItem from="1473348284229" duration="1108000" />
+      <updated>1472724023193</updated>
+      <workItem from="1472724024787" duration="13825000" />
+      <workItem from="1472930408894" duration="3335000" />
+      <workItem from="1473058694962" duration="9833000" />
+      <workItem from="1473069597512" duration="1701000" />
+      <workItem from="1473075167939" duration="3591000" />
+      <workItem from="1473333352338" duration="36000" />
+      <workItem from="1473351065533" duration="624000" />
+      <workItem from="1473355004742" duration="19000" />
+      <workItem from="1473355049554" duration="818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1108000" />
+    <option name="totallyTimeSpent" value="33782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33041576" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24791667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -619,23 +651,54 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/index.html">
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/Index.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning4.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning1.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning2.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning3.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/htmlExempel.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/Index.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning4.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning1.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning2.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning3.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/htmlExempel.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/Index.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning4.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning1.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning2.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning3.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/htmlExempel.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/Index.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning1.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning2.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning3.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/htmlExempel.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning2.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/htmlExempel.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning3.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning4.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/ovning1.html" />
+    <entry file="file://$PROJECT_DIR$/ArmanRaftari.github.io/.idea/Index.html" />
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="762">
-          <caret line="195" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-550">
+          <caret line="70" column="99" selection-start-line="70" selection-start-column="99" selection-end-line="70" selection-end-column="99" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/.idea/ovningar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="762">
-          <caret line="195" column="7" selection-start-line="180" selection-start-column="9" selection-end-line="195" selection-end-column="7" />
+        <state relative-caret-position="374">
+          <caret line="122" column="14" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
           <folding />
         </state>
       </provider>
