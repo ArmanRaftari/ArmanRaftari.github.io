@@ -1,0 +1,20 @@
+
+.links{
+    border: solid;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: azure;
+    border-color: black;
+
+
+
+}
+.text{
+    margin-left: 4%;
+    font-size: 2em;
+    font-family: Calibri;
+
+
+}
