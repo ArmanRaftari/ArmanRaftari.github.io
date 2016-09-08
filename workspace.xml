@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87531ab3-2ab4-4708-a0db-15e1c2a86d56" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/armanraftari.github.io.iml" afterPath="$PROJECT_DIR$/armanraftari.github.io.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/compiler.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/copyright/profiles_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovning1.html" afterPath="$PROJECT_DIR$/ovning1.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovning2.1.html" afterPath="$PROJECT_DIR$/ovning2.1.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovning2.2.html" afterPath="$PROJECT_DIR$/ovning2.2.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovning2.3.html" afterPath="$PROJECT_DIR$/ovning2.3.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovning3.1.html" afterPath="$PROJECT_DIR$/ovning3.1.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovning3.2.html" afterPath="$PROJECT_DIR$/ovning3.2.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/ovningar.html" afterPath="$PROJECT_DIR$/ovningar.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/studiematerial.html" afterPath="$PROJECT_DIR$/studiematerial.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/vcs.xml" />
     </list>
     <ignored path="armanraftari.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -145,8 +165,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Arman\Desktop\Frontend\armanraftari.github.io\.idea" />
       <recent name="C:\Users\Arman\Desktop\Frontend\armanraftari.github.io" />
+      <recent name="C:\Users\Arman\Desktop\Frontend\armanraftari.github.io\.idea" />
     </key>
   </component>
   <component name="RunManager">
@@ -555,12 +575,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1473348279776</updated>
-      <workItem from="1473348284229" duration="862000" />
+      <workItem from="1473348284229" duration="1108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="862000" />
+    <option name="totallyTimeSpent" value="1108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -598,6 +618,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/index.html">
