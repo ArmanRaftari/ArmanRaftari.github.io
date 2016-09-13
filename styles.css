@@ -6,7 +6,7 @@
     margin-left: auto;
     margin-right: auto;
     background-color: azure;
-    border-color: black;
+    border-color: white;
 
 
 
@@ -15,6 +15,215 @@
     margin-left: 4%;
     font-size: 2em;
     font-family: Calibri;
+}
+/*Övning4.2 start */
+#css-zen-garden{
+    background-color: white;
+    background-image:url("resources/7nFhYr.jpg");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 
 
 }
+#css-zen-garden a{
+    font-size: 1.1em;
+    color: orangered;
+    font-family: "Times New Roman";
+    font-style: normal;
+    text-decoration: none;
+}
+#css-zen-garden a:hover{
+    font-size: 1.1em;
+    color: black;
+}
+.page-wrapper{
+
+    width: 90%;
+    margin-left: 5%;
+
+}
+#zen-intro{
+
+    text-align: center;
+    font-weight: bold;
+    color: orangered;
+    font-style: oblique;
+    background-color: transparent;
+    font-family: SansSerif;
+
+}
+#zen-intro h1{
+    margin-top: 2em;
+    font-size: 3em;
+    text-align: center;
+    font-weight: bold;
+    color: orangered;
+    font-style: oblique;
+    background-color: transparent;
+    font-family: SansSerif;
+    background-color: transparent;
+
+}
+
+#zen-summary{
+
+    font-size: 1.6em;
+    text-align: left;
+    font-weight: bold;
+    color: white;
+    height: 10em;
+    border-style: hidden;
+    width: 20em;
+    display: block;
+    margin-top: 3em;
+}
+#zen-intro h2{
+
+    font-size: 3em;
+    text-align: left;
+    font-weight: bold;
+    font-style: oblique;
+    color: orangered;
+    font-family: SansSerif;
+    margin-top: 3em;
+
+
+}
+#zen-preamble h3{
+
+    font-size: 2em;
+    color: orangered;
+    width: 25em;
+
+
+}
+#zen-preamble {
+
+    font-size: 1.6em;
+    font-weight: bold;
+    color: white;
+    border-style: hidden;
+    width: 25em;
+    text-align: left;
+    margin-left: 60%;
+}
+#zen-explanation h3{
+    font-style: oblique;
+    color: orangered;
+    font-family: SansSerif;
+    display: inline-block;
+    font-size: 2em;
+
+
+}
+#zen-explanation {
+    font-size: 1.6em;
+    font-weight: bold;
+    color: white;
+    border-style: hidden;
+    width: 25em;
+    text-align: left;
+    font-style: oblique;
+}
+#zen-participation{
+    font-size: 1.6em;
+    font-weight: bold;
+    color: white;
+    border-style: hidden;
+    width: 25em;
+    text-align: left;
+    margin-left: 60%;
+    font-style: oblique;
+
+}
+#zen-participation h3{
+    font-style: oblique;
+    color: orangered;
+    font-family: SansSerif;
+    display: inline-block;
+    font-size: 2em;
+}
+#zen-benefits{
+    font-size: 1.6em;
+    font-weight: bold;
+    color: white;
+    border-style: hidden;
+    width: 25em;
+    text-align: left;
+    font-style: oblique;
+}
+#zen-benefits h3{
+    font-style: oblique;
+    color: orangered;
+    font-family: SansSerif;
+    display: inline-block;
+    font-size: 2em;
+}
+#zen-requirements{
+    font-size: 1.6em;
+    font-weight: bold;
+    color: white;
+    border-style: hidden;
+    width: 25em;
+    text-align: left;
+    margin-left: 60%;
+    font-style: oblique;
+}
+#zen-requirements h3{
+    font-style: oblique;
+    color: orangered;
+    font-family: SansSerif;
+    display: inline-block;
+    font-size: 2em;
+}
+footer{
+    color: white;
+    margin-left: 30em;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+
+}
+#design-selection{
+    display: block;
+    color: orangered;
+    padding: 8px 16px;
+    text-decoration: none;
+    width: 200px;
+    list-style-type: none;
+    margin: 0;
+    background-color:gray;
+    text-align: center;
+    border: hidden;
+    font-family: "sans-serif";
+    font-size: 1em;
+
+}
+#design-selection ul{
+    list-style-type: none;
+    padding: 0px;
+    text-align: left;
+}
+
+#design-selection h3{
+    font-size: 1.5em;
+    color: orangered;
+
+}
+
+#design-selection a:hover{
+    background-color: #555;
+    color: white;
+    text-decoration: none;
+
+}
+#design-selection a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+.design-name{
+
+}
+/*Övning4.2 end */
