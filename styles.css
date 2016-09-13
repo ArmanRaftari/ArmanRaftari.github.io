@@ -19,11 +19,12 @@
 /*Övning4.2 start */
 #css-zen-garden{
     background-color: white;
-    background-image:url("resources/7nFhYr.jpg");
+    background-image:url("resources/övning4.2.jpg");
     background-size:cover;
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
+
 
 
 }
@@ -78,6 +79,7 @@
     width: 20em;
     display: block;
     margin-top: 3em;
+    background: rgba(128,128,128,0.7);
 }
 #zen-intro h2{
 
@@ -108,6 +110,7 @@
     width: 25em;
     text-align: left;
     margin-left: 60%;
+    background: rgba(128,128,128,0.7);
 }
 #zen-explanation h3{
     font-style: oblique;
@@ -126,6 +129,7 @@
     width: 25em;
     text-align: left;
     font-style: oblique;
+    background: rgba(128,128,128,0.7);
 }
 #zen-participation{
     font-size: 1.6em;
@@ -136,6 +140,7 @@
     text-align: left;
     margin-left: 60%;
     font-style: oblique;
+    background: rgba(128,128,128,0.7);
 
 }
 #zen-participation h3{
@@ -153,6 +158,7 @@
     width: 25em;
     text-align: left;
     font-style: oblique;
+    background: rgba(128,128,128,0.7);
 }
 #zen-benefits h3{
     font-style: oblique;
@@ -170,6 +176,7 @@
     text-align: left;
     margin-left: 60%;
     font-style: oblique;
+    background: rgba(128,128,128,0.7);
 }
 #zen-requirements h3{
     font-style: oblique;
@@ -191,10 +198,10 @@ footer{
     color: orangered;
     padding: 8px 16px;
     text-decoration: none;
-    width: 200px;
+    width: 150px;
     list-style-type: none;
     margin: 0;
-    background-color:gray;
+    background: rgba(128,128,128,1);
     text-align: center;
     border: hidden;
     font-family: "sans-serif";
