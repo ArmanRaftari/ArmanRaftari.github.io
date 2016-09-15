@@ -1,12 +1,14 @@
 
 .links{
-    border: solid;
+    border: 1px solid;
+    border-right: solid 2px;
+    border-bottom: solid 2px;
     display: inline-block;
     text-decoration: none;
     margin-left: auto;
     margin-right: auto;
     background-color: azure;
-    border-color: white;
+    border-color: gray;
 
 
 
@@ -30,8 +32,8 @@
 }
 #css-zen-garden a{
     font-size: 1.1em;
-    color: orangered;
-    font-family: "Times New Roman";
+    color:yellow;
+    font-family: "sans-serif";
     font-style: normal;
     text-decoration: none;
 }
@@ -64,7 +66,6 @@
     font-style: oblique;
     background-color: transparent;
     font-family: SansSerif;
-    background-color: transparent;
     margin-left: 5em;
 
 }
@@ -198,29 +199,28 @@ footer{
 
 }
 #design-selection{
-    display: block;
-    color: orangered;
+    color: white;
     padding: 8px 16px;
     text-decoration: none;
     width: 150px;
     list-style-type: none;
-    margin: 0;
-    background: rgba(128,128,128,1);
-    text-align: center;
+    background: rgba(128,128,128,0.7);
     border: hidden;
     font-family: "sans-serif";
-    font-size: 1em;
-
+    font-size: 1.2em;
+    margin:1em;
+    text-align: left;
+    font-weight:bold ;
 }
 #design-selection ul{
-    list-style-type: none;
-    padding: 0px;
-    text-align: left;
-}
+     list-style-type: none;
+     padding: 0px;
+     text-align: left;
+ }
 
 #design-selection h3{
-    font-size: 1.5em;
-    color: orangered;
+    font-size: 1.7em;
+    color: white;
 
 }
 
@@ -235,6 +235,112 @@ footer{
     color: white;
 }
 .design-name{
+    margin-top: 1em;
+    display: inline-flex;
+}
+#design-archives{
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    width: 150px;
+    list-style-type: none;
+    background: rgba(128,128,128,0.7);
+    border: hidden;
+    font-family: "sans-serif";
+    font-size: 1.2em;
+    margin:1em;
+    text-align: left;
+    font-weight:bold ;
+}
+#design-archives a:hover{
+    background-color: #555;
+    color: white;
+    text-decoration: none;
 
 }
+#design-archives a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+#design-archives ul {
+    list-style-type: none;
+    padding: 0px;
+    text-align: left;
+}
+#zen-resources{
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    width: 150px;
+    list-style-type: none;
+    background: rgba(128,128,128,0.7);
+    border: hidden;
+    font-family: "sans-serif";
+    font-size: 1.2em;
+    margin:1em;
+    text-align: left;
+    font-weight:bold ;
+    float: right;
+}
+
+#zen-resources ul {
+    list-style-type: none;
+    padding: 0px;
+    text-align: left;
+    margin-top: 1em;
+}
+#zen-resources a:hover{
+    background-color: #555;
+    color: white;
+    text-decoration: none;
+
+}
+#zen-resources a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+#zen-resources a {
+    display: inline-table;
+}
 /*Övning4.2 end */
+
+/*Övning5 start */
+
+
+#lion{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5em;
+}
+#sound{
+    width: 20%;
+    margin-left: 40%;
+    font-size: 1.5em;
+}
+#video{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5em;
+}
+
+/*Övning5 end */
+#lion{
+
+}
+/*Övning6 start */
+.body6{
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    font-size: 2em;
+}
+#logomilan{
+    float: left;
+    text-align: center;
+    width: 100px;
+}
+
+/*Övning6 end */
+
+
+
