@@ -327,7 +327,7 @@ footer{
 #lion{
 
 }
-/*Övning6 start */
+/*Övning6.1 start */
 .body6{
     display: flex;
     flex-direction: row;
@@ -340,7 +340,85 @@ footer{
     width: 100px;
 }
 
-/*Övning6 end */
+/*Övning6.1 end */
+/*Övning6.2 start */
+
+.flextable{
+
+    border: 1px solid darkgray;
+    padding: 4px;
+    background-color: beige;
+    font-size: 2em;
+    text-align: center;
+    flex: 1 1 auto;
+
+}
+.flextable > div {
+    margin-left: 2em;
+    display: table-row;
+    flex: 1 1 auto;
+
+
+
+}
+.flextable > div > div {
+    display: table-cell;
+    background-color: white;
+    border: 1px solid darkgray;
+}
+/*Övning6.2 end */
+/*Övning6.3 start */
+
+#flexheader{
+    display: flex;
+    flex-direction: row;
+    background-color: beige;
+    border: 2px solid gray;
+    padding: 4px;
+    flex: 1 1 auto;
+}
+.flexdiv{
+    width: 100%;
+    height: 200px;
+    display: inline-flex;
+    flex-direction: row;
+}
+#flexnav{
+    flex: 1 1 auto;
+    width: 20%;
+    border: 2px solid gray;
+    padding: 4px;
+    background-color: lightblue;
+
+}
+#flexcenter{
+    width: 80%;
+    border: 2px solid gray;
+    padding: 4px;
+    background-color: greenyellow;
+    flex: 1 1 auto;
+}
+
+#flexaside{
+    width: 20%;
+    border: 2px solid gray;
+    padding: 4px;
+    background-color: lightblue;
+    flex: 1 1 auto
+}
+#flexfooter{
+    display: flex;
+    flex-direction: row;
+    background-color: beige;
+    border: 2px solid gray;
+    padding: 4px;
+    flex: 1 1 auto;
+}
+
+/*Övning6.3 end */
+
+
+
 
 
 
