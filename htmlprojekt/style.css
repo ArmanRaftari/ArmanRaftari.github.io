@@ -632,8 +632,8 @@ table {
     text-align: left;
     font-family: verdana;
     font-size: 10px;
-    margin-left: 200px;
-    width: 800px;
+    margin: auto;
+    width: 100%;
 }
 
 tr > td:nth-child(1){
