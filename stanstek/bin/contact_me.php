@@ -16,10 +16,10 @@ $email_address = $_POST['email'];
 $message = $_POST['message'];
 	
 // create email body and send it	
-$to = 'your-email@your-domain.com'; // PUT YOUR EMAIL ADDRESS HERE
-$email_subject = "Modern Business Contact Form:  $name"; // EDIT THE EMAIL SUBJECT LINE HERE
-$email_body = "You have received a new message from your website's contact form.\n\n"."Here are the details:\n\nName: $name\n\nPhone: $phone\n\nEmail: $email_address\n\nMessage:\n$message";
-$headers = "From: noreply@your-domain.com\n";
+$to = 'raftari1@hotmail.com'; // PUT YOUR EMAIL ADDRESS HERE
+$email_subject = "meddelande från Stanstek.se:  $name"; // EDIT THE EMAIL SUBJECT LINE HERE
+$email_body = "Du har fått ett meddelande/fråga från Stanstek.se\n\n"."Här är detaljerna :\n\nName: $name\n\nPhone: $phone\n\nEmail: $email_address\n\nMessage:\n$message";
+$headers = "From: noreply@Stanstek.se\n";
 $headers .= "Reply-To: $email_address";	
 mail($to,$email_subject,$email_body,$headers);
 return true;			
