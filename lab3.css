@@ -1,4 +1,17 @@
+body{
+    background-color: black;
+}
 
+.flexcontainer {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row /* works with row or column */
+    flex-direction: row;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
 #title{
     margin-left: auto;
     margin-right: auto;
@@ -10,20 +23,23 @@ canvas{
 button{
     width: 200px;
     padding: 5px;
+
 }
 /* Dropdown Button */
 .dropbtn {
     background-color: gray;
     color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
+    padding: 8px;
+    font-size: 12px;
+    border: 1px solid black;
     cursor: pointer;
+    margin-top: 8px;
+    margin-left: 50px;
 }
 
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
-    background-color: #3e8e41;
+    background-color: rgba(130, 23, 134, 0.68);
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -37,8 +53,10 @@ button{
     display: none;
     position: absolute;
     background-color: #f9f9f9;
-    min-width: 160px;
+    min-width: 220px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    text-decoration: none;
+    margin-left: 30px;
 }
 
 /* Links inside the dropdown */
@@ -47,10 +65,128 @@ button{
     padding: 12px 16px;
     text-decoration: none;
     display: block;
-}
 
+}
+.button{
+    width: 0.8em;
+
+}
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {background-color: #f1f1f1}
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {display:block;}
+
+/*Color*/
+#add-color{
+max-width: 190px;
+
+}
+#input-color{
+
+}
+form.color-form{
+    border: solid white 2px;
+    background-color: white;
+    padding: 5px;
+}
+/*infobox*/
+#infoBox{
+    border: solid black 2px;
+    background-color: white;
+
+}
+.msg{
+    color: black;
+    background-color: white;
+    min-height: 5em;
+    border: 2px solid;
+    border-right: 1px solid;
+    padding: 3px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    display: block;
+    height: 185px;
+}
+.jSon{
+    color: black;
+    background-color: white;
+    min-height: 5em;
+    border: 2px solid;
+    border-left: 1px solid;
+    padding: 3px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    display: block;
+    height: 184px;
+    min-width: 250px;
+    font-size: 0.8em;
+    font-weight: bold;
+
+
+}
+
+
+
+
+
+
+.LabTre {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin-left: 60px;
+
+}
+
+.LabTre-body {
+    display: flex;
+    flex: 1;
+}
+.LabTre-content {
+    flex: 1;
+
+
+}
+
+.LabTre-nav, .LabTre-ads {
+
+    flex: 0 0 40em;
+
+}
+
+.LabTre-nav {
+
+    order: -1;
+    margin-left: 25px;
+}
+.LabTre-ads{
+    margin-right: 210px;
+}
+
+
+
+.LabTre,
+.LabTre-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.LabTre-nav {
+    order: -1;
+}
+
+@media (min-width: 768px) {
+    .LabTre-body {
+        flex-direction: row;
+        flex: 1;
+    }
+    .LabTre-content {
+        flex: 1;
+    }
+    .LabTre-nav, .LabTre-ads {
+        /* 12em is the width of the columns */
+        flex: 0 0 12em;
+    }
+}
