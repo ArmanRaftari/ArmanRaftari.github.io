@@ -115,7 +115,9 @@ select {
 /*==============================
       // carousel Styles //
 ==============================*/
-header .carousel {margin-top: -177px;}
+header .carousel {margin-top: -177px;
+
+}
 header .carousel-item img {
     height: 840px;
     width: 100%;
@@ -129,6 +131,8 @@ header .carousel-item img {
     -o-background-size: cover;
     background-size: cover;
     position: relative;
+
+
 }
 header .gradient {
     background: -moz-linear-gradient(-45deg, rgba(191,0,25,0.5) 0%, rgba(0,21,158,0.5) 100%);
@@ -149,6 +153,7 @@ header {
 }
 header .carousel-indicators .active {
     background-color: #DA1D86;
+
 }
 header .carousel-caption  {
     position: absolute;
@@ -205,6 +210,7 @@ header .btn-primary:hover {
     background-color: transparent;
     border-color: transparent;
 }
+
 
 /*==============================
       // About Styles //
@@ -595,7 +601,7 @@ footer .content p {font-size: 14px;font-weight: 200;letter-spacing: 0.5px;paddin
 footer  h5 {color: rgb(218, 29, 134); text-transform: uppercase;font-size: 16px;}
 footer  ul>li {display: block;}
 footer  ul>li a {color: #fff;font-size: 12px; text-transform: uppercase;font-size: 12px;}
-footer  ul>li a:hover {color: #ff0;}
+footer  ul>li a:hover {color: #DA1D86;}
 footer .gradient {
     background: -moz-linear-gradient(-45deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.8) 100%);
     background: -webkit-linear-gradient(-45deg, rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.8) 100%);
@@ -1523,3 +1529,12 @@ textarea.form-control {
      background: #FFF;
      z-index: -1;
    }
+
+#intro{
+    font-size: 15px;
+        color: #8d8d8d;
+        font-weight: 500;
+        line-height: 28px;
+        padding-bottom: 60px;
+        padding-top: 60px;
+}
