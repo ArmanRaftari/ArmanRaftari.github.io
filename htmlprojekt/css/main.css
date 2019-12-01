@@ -4,7 +4,7 @@
 ===============================================*/
 *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 *:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
-body {width: 100%;margin: 0px;padding: 0px;font-size: 16px;line-height: 1.8;overflow-x: hidden;background-color: #fff;font-family: 'Montserrat', sans-serif;}
+body {width: 100%;margin: 0px;padding: 0px;font-size: 16px;line-height: 1.8;overflow-x: hidden;background-color: black;font-family: 'Montserrat', sans-serif;}
 body,
 html { height: 100%;}
 .btn:focus,.btn:active {outline: none !important;box-shadow: none;}
@@ -115,11 +115,11 @@ select {
 /*==============================
       // carousel Styles //
 ==============================*/
-header .carousel {margin-top: 0px;
+header .carousel {margin-top: 10px;
 
 }
 header .carousel-item img {
-    height: 50px;
+    height: 70px;
     width: 100%;
     z-index: 9;
 
